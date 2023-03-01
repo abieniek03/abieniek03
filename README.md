@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello!👋
+### ℹABOUT ME
 
-<!--
-**abieniek03/abieniek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 19 years old web developer from Poland.
 
-Here are some ideas to get you started:
+My journey with web development since summer 2018, but seriously I focused on this at the end of 2021.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before learning web development I was graphic designer & UI/UX Designer. I have experience in project websites.
+
+### 🧰TECH STACK
+#### FRONTEND
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,typescript,react,next,vite,gulp)](https://skillicons.dev)
+
+#### BACKEND
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)
+
+#### DEVELOPER TOOLS
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+#### DESIGN
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps)](https://skillicons.dev)
