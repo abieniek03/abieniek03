@@ -1,7 +1,7 @@
 # Hello!👋
 ### ℹABOUT ME
 
-I'm 19 years old web developer from Poland.
+I'm 19 years beginner old web developer from Poland.
 
 My journey with web development since summer 2018, but seriously I focused on this at the end of 2021.
 
