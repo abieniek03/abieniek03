@@ -5,7 +5,7 @@ I'm 19 years old beginner web developer from Poland.
 
 My journey with web development since summer 2018, but seriously I focused on this at the end of 2021.
 
-Before learning web development I was graphic designer & UI/UX Designer. I have experience in project websites.
+Before learning web development I was graphic designer & UI/UX Designer. I have experience in websites projects.
 
 ### 🧰TECH STACK
 #### FRONTEND
