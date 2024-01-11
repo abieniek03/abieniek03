@@ -3,31 +3,40 @@
 
 ###
 
-<div align="center">
-  <a href='https://www.abwebproject.com/' target='_blank'>
-      <img height="200" src="https://i.imgur.com/QchJ5wd.jpg"  />
-  </a>
-</div>
+<h2>ℹABOUT ME</h2>
 
 ###
 
-<h2 align="center">ℹABOUT ME</h2>
+<p>👨🏽‍💻 Ambitious web dev.<br>👨‍🎓 IT student.<br>🎨 Former amateur graphic designer.<br>🎯 Goal: first job as frontend dev.<br>🥊 Fun fact: martial arts fun.</p>
 
 ###
 
-<p align="left">👨🏽‍💻 Ambitious web dev.<br>👨‍🎓 IT student.<br>🎨 Former amateur graphic designer.<br>🎯 Goal: first job as frontend dev.<br>🥊 Fun fact: martial arts fun.</p>
+
+<h2>📁PORTFOLIO</h2>
 
 ###
 
-<h2 align="center">🧰TECH STACK</h2>
+<ul>
+  <li>
+    <a href="https://github.com/abieniek03/barbershop-portal">Barbershop portal</a>
+  </li>
+  <li>
+    <a href="https://github.com/abieniek03/social-links">Social Links</a> 
+  </li>
+  <li>
+    <a href="https://github.com/abieniek03/go-form">Go Form</a>
+  </li>
+</ul>
+
+<h2>🧰TECH STACK</h2>
 
 ###
 
-<h3 align="center">FRONTEND</h3>
+<h3>FRONTEND</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,11 +62,11 @@
 
 ###
 
-<h3 align="center">BACKEND</h3>
+<h3>BACKEND</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -75,11 +84,11 @@
 
 ###
 
-<h3 align="center">DEV UTILITIES</h3>
+<h3>DEV UTILITIES</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
