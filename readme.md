@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Adrian!👋</h1>
-<h3 align="center">Full stack developer from Poland 🇵🇱</h3>
+<h3 align="center">Web developer from Poland 🇵🇱</h3>
 
 ###
 
@@ -24,7 +24,7 @@
     <a href="https://github.com/abieniek03/social-links">Social Links</a> 
   </li>
   <li>
-    <a href="https://github.com/abieniek03/go-form">Go Form</a>
+    <a href="https://github.com/abieniek03/language-school">Language School</a>
   </li>
 </ul>
 
