@@ -1,8 +1,10 @@
 <a href="https://www.abieniek.dev/" rel="noopener" target="_blank"> 
   
-![Github-banner](https://github.com/abieniek03/abieniek03/assets/106828687/a0e4d717-2f29-4e37-a4aa-fca1bc8ee1b3)
+![Github-banner-x350](https://github.com/abieniek03/abieniek03/assets/106828687/34be9905-8f74-4a71-81f2-9b1d90fd2f07)
 
 </a>
+
+<h1>Hello, I'm Adrian!👋</h1>
 
 <ul>
   <li>Web developer⌨</li>
