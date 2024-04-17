@@ -7,7 +7,7 @@
 <h1>Hello, I'm Adrian!👋</h1>
 
 <ul>
-  <li>Web developer⌨</li>
+  <li>Software developer⌨</li>
   <li>Information technology student🎓</li>
   <li><a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank"> Ex. graphic designer🎨</a></li>
   <li>Martial arts fun🥊</li>
