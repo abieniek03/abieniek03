@@ -1,5 +1,4 @@
-![Frame 31](https://github.com/user-attachments/assets/399b1a9c-28c9-454d-b626-2591697d88f9)
-
+![Aspirise-Background](https://github.com/user-attachments/assets/399b1a9c-28c9-454d-b626-2591697d88f9)
 
 <h1>Hello, I'm Adrian!👋</h1>
 
