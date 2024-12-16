@@ -1,7 +1,11 @@
+![Frame 31](https://github.com/user-attachments/assets/398b672a-c09e-4544-8d07-fa6a9c4a340d)
+
+
 <h1>Hello, I'm Adrian!👋</h1>
 
 <ul>
   <li>Full stack developer⌨</li>
+  <li>Member&Founder of <a href="https://github.com/aspirise" rel="noopener" target="_blank">Aspirise</a></li>
   <li>Information technology student 2/4🎓</li>
   <li><a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank"> Ex. graphic designer🎨</a></li>
   <li>Martial arts fun🥊</li>
