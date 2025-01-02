@@ -1,5 +1,5 @@
 <a href="https://github.com/aspirise" rel="noopener" target="_blank">
-  <img src="https://github.com/user-attachments/assets/399b1a9c-28c9-454d-b626-2591697d88f9" alt="Aspiricse - We Create Top-Level Digital Products"/>
+  <img src="https://github.com/user-attachments/assets/5328012e-849d-4444-a271-164856fe3cc6" alt="Aspirise - We Create Top-Level Digital Products"/>
 </a>
 
 ## Hello, I'm Adrian!👋
