@@ -8,7 +8,7 @@
   <li>⌨ Full stack developer</li>
   <li>🚀 Member&Founder of <a href="https://github.com/aspirise" rel="noopener" target="_blank">@Aspirise</li>
   <li>🎓 Information technology student 2/4</li>
-  <li>🎨 <a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank"> Ex. graphic designer</a></li>
+  <li>🎨 <a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank"> Former Graphic Designer</a></li>
   <li>🥊 Martial arts fun</li>
 </ul>
 
