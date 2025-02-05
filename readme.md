@@ -5,7 +5,6 @@
 ## Hello, I'm Adrian!👋
 
 <ul>
-  <li>⌨ Full stack developer</li>
   <li>🚀 Founder of <a href="https://github.com/aspirise" rel="noopener" target="_blank">@Aspirise</li>
   <li>🎓 Information technology student 2/4</li>
   <li>🎨 Ex. Graphic Designer <a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank">@_abdesigner_</a></li>
