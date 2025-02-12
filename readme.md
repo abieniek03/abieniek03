@@ -1,11 +1,6 @@
-<a href="https://github.com/aspirise" rel="noopener" target="_blank">
-  <img src="https://github.com/user-attachments/assets/5328012e-849d-4444-a271-164856fe3cc6" alt="Aspirise - We Create Top-Level Digital Products"/>
-</a>
-
 ## Hello, I'm Adrian!👋
 
 <ul>
-  <li>🚀 Founder of <a href="https://github.com/aspirise" rel="noopener" target="_blank">@Aspirise</li>
   <li>🎓 Information technology student 2/4</li>
   <li>🎨 Ex. Graphic Designer <a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank">@_abdesigner_</a></li>
   <li>🥊 Martial arts fun</li>
