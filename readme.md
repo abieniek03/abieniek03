@@ -2,7 +2,7 @@
 
 <ul>
   <li>👨🏽‍💻 Software Developer</li>
-  <li>🎓 Information Technology Student 2/4</li>
+  <li>🎓 Information Technology Student (2/4)</li>
   <li>🎨 Ex. Graphic Designer <a href="https://www.instagram.com/_abdesigner_" rel="noopener" target="_blank">@_abdesigner_</a></li>
   <li>🥊 Martial Arts Enthusiast</li>
 </ul>
