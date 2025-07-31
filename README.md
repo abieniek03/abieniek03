@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I'm Adrian!👋🇵🇱
+- ⌨️ **Software developer** with a passion
+- 🚀 On the way to become **Software Engeenier** - studying Bachelor of Engineering in Information Technology (3/4)
+- 💻 Programming in JavaScript, TypeScript, PHP and Python
+- 🎯 Focused on building clean and efficient code
+- 🌱 Always eager to learn new technologies and improve my skills
+
 
 <!--
 **abieniek03/abieniek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
