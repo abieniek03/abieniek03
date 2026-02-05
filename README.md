@@ -1,7 +1,7 @@
 ## Hello, I'm Adrian!👋🇵🇱
-- ⌨️ **Software developer** with a passion
+- 👨🏽‍💻 **Software developer** with a passion
 - 🚀 On the way to become **Software Engeenier** - studying Bachelor of Engineering in Information Technology (3/4)
-- 💻 Programming in JavaScript, TypeScript, PHP and Python
+- ⌨️ Programming in JavaScript, TypeScript, PHP and Python
 - 🎯 Focused on building clean and efficient code
 - ⚙️ Developing skills in **DevOps** and automation
 - 🔒 Interested in **Cybersecurity**
